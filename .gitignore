@@ -9,6 +9,7 @@ trained_models
 pretrained_checkpoints
 .*
 *~*
+*.jsonl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
