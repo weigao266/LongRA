@@ -10,6 +10,9 @@ pretrained_checkpoints
 .*
 *~*
 *.jsonl
+examples/NLG/eval/GenerationEval
+examples/NLG/eval/e2e
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
